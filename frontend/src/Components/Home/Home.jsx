@@ -48,7 +48,7 @@ const Home = () => {
     <Loader />
   ) : (
     <Fragment>
-      <MetaData title="Social Media"/>
+      <MetaData title=" Apna Social Media"/>
     <div className="home">
       <div className="homeleft">
         {posts && posts.length > 0 ? (
